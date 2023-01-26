@@ -10,3 +10,5 @@ git clean -f //caution
 git rm <file name>
 git commit -m "<some text>"
 git push -u origin main
+
+git ls-files
