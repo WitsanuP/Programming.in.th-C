@@ -17,3 +17,12 @@ git push -u origin main
 git remote add origin git@github.com:WitsanuP/Programming.in.th-C.git
 git branch -M main
 git push -u origin main
+
+
+////////////
+///next time///
+///////////////
+git add test.txt
+git commit -m "add some thing"
+git push -u origin main
+(if error){[use] git push -u origin main}
