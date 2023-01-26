@@ -1,0 +1,8 @@
+#define **some text** 
+
+git clone **link fork project**
+
+git clean -f //caution
+-f  removeing file
+-n  would remove file
+-i  interractine. It display manu with options.
