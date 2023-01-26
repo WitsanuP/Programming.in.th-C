@@ -6,3 +6,7 @@ git clean -f //caution
 -f  removeing file
 -n  would remove file
 -i  interractine. It display manu with options.
+
+git rm <file name>
+git commit -m "<some text>"
+git push -u origin main
