@@ -19,10 +19,18 @@ git branch -M main
 git push -u origin main
 
 
-////////////
+///////////////
 ///next time///
 ///////////////
 git add test.txt
 git commit -m "add some thing"
 git push -u origin main
 (if error){[use] git push -u origin main}
+
+/////////////////
+//case untrack //
+/////////////////
+git clean -f //caution
+-f  removeing file
+-n  would remove file
+-i  interractine. It display manu with options.
